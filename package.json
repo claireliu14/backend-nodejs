@@ -1,0 +1,20 @@
+{
+  "name": "backend-nodejs",
+  "version": "0.0.1",
+  "description": "Tutorial for nodejs.",
+  "main": "index.js",
+  "scripts": {
+  	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claireliu14/backend-nodejs.git"
+  },
+  "author": "Claire Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claireliu14/backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/claireliu14/backend-nodejs#readme"
+}
